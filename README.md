@@ -63,52 +63,31 @@ Astyx HiRes2019 Frameworks
 <table align="center">
    <tr>
       <td align="center">Server Model</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">Ubuntu 18.04</td>
-      <td></td>
+      <td align="center">Ubuntu 18.04</td>
    </tr>
    <tr>
       <td align="center">Version of PyTorch</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">torch 10.1,<br>torchvision 0.11.3, <br>torchaudio 0.10.2</td>
-      <td></td>
+      <td align="center">torch 10.1,<br>torchvision 0.11.3, <br>torchaudio 0.10.2</td>
    </tr>
    <tr>
       <td align="center">Version of CUDA</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">CUDA 11.3</td>
-      <td></td>
+      <td align="center">CUDA 11.3</td>
    </tr>
    <tr>
       <td align="center">run time</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">1h 20min</td>
-      <td></td>
+      <td align="center">1h 20min</td>
    </tr>
    <tr>
       <td align="center">number of epoch</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">160</td>
-      <td></td>
+      <td align="center">160</td>
    </tr>
    <tr>
       <td align="center">number of checkpoint</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">30</td>
-      <td></td>
+      <td align="center">30</td>
    </tr>
    <tr>
       <td align="center">number of evaluation</td>
-      <td></td>
-      <td></td>
-      <td align="center" colspan="4">30</td>
-      <td></td>
+      <td align="center">30</td>
    </tr>
 </table>
 
