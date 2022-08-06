@@ -62,62 +62,52 @@ Astyx HiRes2019 Frameworks
 ## Experiment Settings:
 <table align="center">
    <tr>
-      <td></td>
-   </tr>
-   <tr>
       <td align="center">Server Model</td>
       <td></td>
       <td></td>
-      <td align="center">Ubuntu 18.04</td>
+      <td align="center" colspan="4">Ubuntu 18.04</td>
       <td></td>
    </tr>
    <tr>
       <td align="center">Version of PyTorch</td>
       <td></td>
       <td></td>
-      <td align="center">torch 10.1,<br>torchvision 0.11.3, <br>torchaudio 0.10.2</td>
+      <td align="center" colspan="4">torch 10.1,<br>torchvision 0.11.3, <br>torchaudio 0.10.2</td>
       <td></td>
    </tr>
    <tr>
       <td align="center">Version of CUDA</td>
       <td></td>
       <td></td>
-      <td align="center">CUDA 11.3</td>
+      <td align="center" colspan="4">CUDA 11.3</td>
       <td></td>
    </tr>
    <tr>
       <td align="center">run time</td>
       <td></td>
       <td></td>
-      <td align="center">1h 20min</td>
+      <td align="center" colspan="4">1h 20min</td>
       <td></td>
    </tr>
    <tr>
       <td align="center">number of epoch</td>
       <td></td>
       <td></td>
-      <td align="center">160</td>
+      <td align="center" colspan="4">160</td>
       <td></td>
    </tr>
    <tr>
       <td align="center">number of checkpoint</td>
       <td></td>
       <td></td>
-      <td align="center">30</td>
+      <td align="center" colspan="4">30</td>
       <td></td>
    </tr>
    <tr>
       <td align="center">number of evaluation</td>
       <td></td>
       <td></td>
-      <td align="center">30</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center" colspan="4">30</td>
       <td></td>
    </tr>
 </table>
@@ -125,9 +115,6 @@ Astyx HiRes2019 Frameworks
 ## Experiment Results:
 * All experiments are tested on Astyx Hires2019
 <table align="center">
-   <tr>
-      <td></td>
-   </tr>
    <tr>
       <td align="center">Modality/Method </td>
       <td align="center" colspan="3">3D mAP(%)</td>
@@ -254,23 +241,10 @@ Astyx HiRes2019 Frameworks
       <td align="center"> +11.39</td>
       <td></td>
    </tr>
-   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
 </table>
 
 * The result of ablation study
 <table align="center">
-   <tr>
-      <td></td>
-   </tr>
    <tr>
       <td align="center" colspan="4">Method</td>
       <td align="center" colspan="3">3D mAP(%)</td>
@@ -366,19 +340,6 @@ Astyx HiRes2019 Frameworks
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
    </tr>
 </table>
